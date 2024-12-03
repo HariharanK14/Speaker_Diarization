@@ -27,7 +27,7 @@ Licensing Information
 
 bash
 Copy code
-git clone [https://github.com/Tharunn30/Speaker-Diarization-In-Multilingual-Scenarios.git](https://github.com/HariharanK14/Speaker_Diarization/)  
+git clone (https://github.com/HariharanK14/Speaker_Diarization/)  
 cd Speaker-Diarization-In-Multilingual-Scenarios  
 2️⃣ Set Up Virtual Environment (Optional):
 
