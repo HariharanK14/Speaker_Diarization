@@ -1,4 +1,4 @@
-# Speaker_Diarization1
+# Speaker_Diarization
 🎙️ Speaker Diarization for Multilingual Conversations
 Effortlessly analyze audio streams by identifying speakers and their transitions across multiple languages. This project revolutionizes speaker diarization by accommodating multilingual environments and language-switching scenarios.
 
