@@ -83,8 +83,7 @@ bash
 Copy code
 git push origin feature/your-feature  
 Open a pull request.
-📝 License
-This project is distributed under the MIT License. Check the LICENSE git clone (https://github.com/HariharanK14/Speaker_Diarization/blob/main/LICENSE) file for details.
+
 
 🌟 Support the Project
 Found this helpful? Don’t forget to ⭐ the repository on GitHub!
